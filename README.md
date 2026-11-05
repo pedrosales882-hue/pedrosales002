@@ -67,19 +67,3 @@ Sempre com resiliência no que faço e desenvolvimento profissional e pessoal.
    <a href="mailto:pedrosales882@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales011/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales011/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animação arcade no perfil GitHub"
-    src="https://raw.githubusercontent.com/pedrosales882-hue/pedrosales011/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<br/>
